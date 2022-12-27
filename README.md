@@ -8,7 +8,7 @@ I'm a Backend engineer writing performant API's and internal tooling at **Epsilo
 - ⚙️ Working in TypeScript, Node.js, Express, Docker, and occassionally Angular
 - 🎓 University of Wisconsin-Madison grad
 - 📫 You can reach me at https://www.linkedin.com/in/richter-max/
-- ⛷ Skier
+- ⛷ Skiing, Hockey, Aviation
 
 <!---
 max-richter/max-richter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
