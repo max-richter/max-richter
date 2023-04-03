@@ -1,11 +1,11 @@
 👋 Hi, I’m @max-richter
 
-I'm a Backend engineer writing performant API's and internal tooling at **Epsilon**.
+Software Engineer @ **Logik.io**
 
 **Bio**
 
 - 🏠 Based in **Chicago, IL**
-- ⚙️ Working in TypeScript, Node.js, Express, Docker, and occassionally Angular
+- ⚙️ Working in Java, Spring, PostgreSQL
 - 🎓 University of Wisconsin-Madison grad
 - 📫 You can reach me at https://www.linkedin.com/in/richter-max/
 - ⛷ Skiing, Hockey, Aviation
